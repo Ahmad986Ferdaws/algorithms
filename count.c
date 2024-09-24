@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-
+//so it will the better one?
 int count(int num) 
 {
     printf("[");
